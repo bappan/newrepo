@@ -4,3 +4,5 @@ Mango
 Banana
 Apple
 Guava
+Pineapple
+Orange
