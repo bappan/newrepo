@@ -1,0 +1,6 @@
+welcome, list of some fruits are :
+
+Mango
+Banana
+Apple
+Guava
